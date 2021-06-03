@@ -1,0 +1,6 @@
+# Cheetay Technical Assessment
+
+- Task 1: Given N activities with their start and finish day given in array start[ ] and end[ ]. Select the maximum number of activities that can be performed by a single person, assuming that a person can only work on a single activity at a given day
+- Task 2: Given an array A of n positive numbers. The task is to find the first Equilibium Point in the array. Equilibrium Point in an array is a position such that the sum of elements before it is equal to the sum of elements after it.
+- Task 3: Given a string S, find length of the longest substring with all distinct characters. 
+- Task 4: There is one meeting room in a firm. There are N meetings in the form of (S[i], F[i]) where S[i] is start time of meeting i and F[i] is finish time of meeting i.What is the maximum number of meetings that can be accommodated in the meeting room when only one meeting can be held in the meeting room at a particular time? Also note start time of one chosen meeting can't be equal to the end time of the other chosen meeting.
